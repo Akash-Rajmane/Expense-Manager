@@ -1,0 +1,66 @@
+.history-box{
+    display: block;
+    margin: 25px;
+    padding-top: 40px;
+    width: 75%;
+}
+
+.history-content{
+    background-color: #53565a;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    height: 45px;
+    margin: 0;
+    vertical-align: middle;
+}
+
+.history-title{
+    vertical-align: middle;
+}
+
+.transaction-icon{
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.dropdown-icon{
+    vertical-align: middle;
+    float: right;
+    margin: 8px 10px 0px 0px;
+}
+
+.list-box{
+    background-color: #c7d0d8;
+    display: block;
+    height: max-content;
+    margin-bottom: 20px;
+    transition: 0.5s;
+}
+
+table{
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+th{
+    height: 35px;
+    width: 20%;
+    background-color: white;
+}
+
+.list{
+    background-color: white;
+}
+
+.list:hover{
+    background-color: #e8ecec;
+}
+
+td{
+    height: 30px;
+    width: 20%;
+}

@@ -1,0 +1,35 @@
+.header{
+    background-color: #347da2;
+    font-family: 'Times New Roman';
+    margin-top: 0;
+    height: 60px;
+    display: flex;
+    justify-content: flex-start;   
+    font-size: 34px; 
+}
+
+.header-content{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-left: 10px;
+}
+
+.ham-icon{
+    color: white;
+    margin-left: 10px;
+    margin-right: 25px;
+    vertical-align: middle;
+}
+
+#wallet-icon{
+    color:lightgreen;
+    vertical-align: middle;
+    margin-right: 4px;
+}
+
+.text{
+    color: white;
+    text-shadow: 3px 5px 2px #474747;
+    font-size: 34px;
+    margin-left: 10px;
+}

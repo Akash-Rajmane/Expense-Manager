@@ -1,0 +1,35 @@
+.sidebar{
+    height: calc(100vh - 55px);
+    width: 250px;
+    font-size: 18px;
+    background-color: #0b203b;
+    top: 60px;
+    left: 0;
+    transition: 0.5s;
+}
+
+.row{
+    width: 100%;
+    height: 50px;
+    list-style-type: none;
+    display: flex;
+    color: white;
+    justify-content: flex-start;
+    align-items: center;
+    vertical-align: middle;
+    margin: 0%;
+    background-color: #0b203b;
+}
+
+.row:hover{
+    background-color: #347da2;
+}
+
+.row-icon{
+    margin-left: 20px;
+    float: left;
+}
+
+.row-title{
+    margin-left: 15px;
+}
