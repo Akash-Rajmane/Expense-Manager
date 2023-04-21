@@ -1,5 +1,12 @@
 # hosted link: https://manage-ur-expense.netlify.app
 
+## Technical Stack Used: ReactJS, Typescript, HTML, CSS, React- Router-Dom    
+
+## Features:
+
+### User can input income/expense name, amount and balance is calculated automatically.
+### User can edit, delete the transactions and accordingly balance is shown.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
